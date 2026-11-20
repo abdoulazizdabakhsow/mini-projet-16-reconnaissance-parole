@@ -1,0 +1,24 @@
+# Base Speech Commands (3 Go) : à télécharger séparément, voir README
+donnees/*
+!donnees/listes/
+
+# Supports de cours
+documents/
+
+# Divers
+Capture*.png
+rapport/Exp1*
+rapport/*.pdf
+*.asv
+*~
+.DS_Store
+
+# Fichiers temporaires LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+rapport/resultats/WhatsApp*
