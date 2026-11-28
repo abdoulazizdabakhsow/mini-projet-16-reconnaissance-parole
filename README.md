@@ -57,6 +57,8 @@ Dans MATLAB, placez-vous dans `matlab/`, puis lancez par exemple `exp01_chaine_c
 
 Abdoul Aziz Dabakh SOW, Amadou DIALLO, Mourtalla NDIAYE.
 
+Sous l'encadrement de **Professeur Ndeye Fatou NGOM**
+
 ## Licences
 
 Code : à définir. Base Speech Commands : CC BY 4.0 (Google).
